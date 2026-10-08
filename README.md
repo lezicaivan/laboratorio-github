@@ -14,3 +14,5 @@ versiones, administración del sistema operativo
 * Creación de repositorios públicos e inicialización con README.
 * Realización de commits con mensajes descriptivos.
 * Consulta del historial de versiones y auditoría de cambios.
+
+## Cambios agregados en mi readme 
